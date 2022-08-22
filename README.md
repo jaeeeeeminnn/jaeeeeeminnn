@@ -1,4 +1,5 @@
-### Hi there 👋
+### 재민의 GitHub 개발 노트
+### 깃허브 재정비 : 08 22 / 2022
 
 <!--
 **jaeeeeeminnn/jaeeeeeminnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
