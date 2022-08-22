@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeeeeminnn&layout=compact)](https://github.com/jaeeeeeminnn/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jj5488jj)](https://solved.ac/jj5488jj/)
-[![jaeeeeeminnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeeeeeminnn&show_icons=true&theme=dark)]
+![jaeeeeeminnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeeeeeminnn&show_icons=true&theme=dark)
